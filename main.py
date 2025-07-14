@@ -10,7 +10,7 @@ to_cover_next_layer_color = (0, 255, 0)  # Color for layer itself
 height = None
 width = None
 
-include_corners = True
+include_corners = False
 include_corner_vectors = True
 heuristic_selection = False
 agent_selection = True
